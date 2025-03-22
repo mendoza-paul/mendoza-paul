@@ -1,4 +1,4 @@
-Hi, I am Paul I'm a recent grad from Biomedical Engineering in Canada. 
+Hi, I am Paul
 
 I'm interested in signal/image analysis, cryptography, data science, embbeded systems, and finance.
 
